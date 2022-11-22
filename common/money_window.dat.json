@@ -1,0 +1,8 @@
+{
+  "money_window_00_00": "N/A",
+  "money_window_00_01": "N/A",
+  "money_window_01_00": "[VAR NUM7(0000,002C)]",
+  "money_window_02_00": "[VAR NUM7(0000,002C)] LP",
+  "money_window_03_00": "+[VAR NUM7(0000,002C)]",
+  "money_window_03_01": "−[VAR NUM7(0000,002C)]"
+}

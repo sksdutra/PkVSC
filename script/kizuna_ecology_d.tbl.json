@@ -1,0 +1,12 @@
+{
+  "kizuna_ecology_d_01": "Ah! Hello, hello, [VAR TRNAME(0000)]![VAR 0114(002A)]",
+  "kizuna_ecology_d_02": "I see you’ve already registered 200 species of\nPokémon to your Pokédex for me![VAR 0114(002A)]",
+  "kizuna_ecology_d_03": "Wow! Pokémon from the mountains! Pokémon\nfrom the sea! Wait, what?! No way!\\r\nYou even found Pokémon in a place like this?![VAR 0114(002A)]",
+  "kizuna_ecology_d_04": "Ah...sorry about that. I got a little excited there.[VAR 0114(002A)]",
+  "kizuna_ecology_d_05": "My Pokémon research is moving along\nsuper-duper splendidly thanks to you![VAR 0114(002A)]",
+  "kizuna_ecology_d_06": "Here, take this. Consider it my way of saying\nthanks.[VAR 0114(002A)]",
+  "kizuna_ecology_d_07": "You’re a bona fide Pokémon catching\nprofessional, [VAR TRNAME(0000)]![VAR 0114(002A)]",
+  "kizuna_ecology_d_08": "For your next goal, it’s finally time to go for a\ncompleted Pokédex! Aim for 400 species![VAR 0114(002A)]",
+  "kizuna_ecology_d_09": "This is no easy feat, but I’m sure you can do it.[VAR 0114(002A)]",
+  "kizuna_ecology_d_10": "Keep tossing those Poké Balls, and don’t give up![VAR 0114(002A)]"
+}

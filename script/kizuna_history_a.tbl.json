@@ -1,0 +1,14 @@
+{
+  "kizuna_history_a_01": "[VAR BD06(0000)]You’re... Ah, yes. [VAR TRNAME(0000)] from\nclass 1-A.[VAR 0114(0027)]",
+  "kizuna_history_a_02": "The way you conduct yourself in my class, and\nthe answers you give to my questions...[VAR 0114(0027)]",
+  "kizuna_history_a_03": "I admit they pique my interest. You are quite the\ninteresting pupil, I must say.[VAR 0114(0027)]",
+  "kizuna_history_a_04": "[VAR BD06(0000)]Tell me, [VAR TRNAME(0000)]—given a\nchoice,\\r\nwhich\\r\ndo\\r\nyou\\r\nprefer?\\c\nThings of old? Or things that are new?[VAR 0114(0027)]",
+  "kizuna_history_a_select_01": "I like new stuff",
+  "kizuna_history_a_select_02": "I prefer older things",
+  "kizuna_history_a_05": "You would answer “new stuff” to me, your history\nteacher? Ha! You really are a curious one.[VAR 0114(0027)]",
+  "kizuna_history_a_06": "Ah. So you prefer the things of the past, do you?\nThe potential I saw in you was real after all.[VAR 0114(0027)]",
+  "kizuna_history_a_07": "Yes, this one may indeed be of good use to\nme someday...[VAR 0114(0027)]",
+  "kizuna_history_a_08": "Ah, you can disregard that. I was simply thinking\nout loud.[VAR 0114(0027)]",
+  "kizuna_history_a_09": "I enjoyed our little conversation today. You have\nmy thanks, [VAR TRNAME(0000)].[VAR 0114(0027)]",
+  "kizuna_history_a_system_01": "You became slightly closer with Ms. Raifort!"
+}

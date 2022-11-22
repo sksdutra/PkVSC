@@ -1,0 +1,5 @@
+{
+  "msg_egg_event_01_01": "Oh?",
+  "msg_egg_event_02_01": "[VAR iCOLOR3(0000,0000)][VAR PKNAME(0000)] hatched from the Egg!",
+  "msg_egg_event_03_01": "[VAR BD06(0000)]Would you like to give your\n[VAR PKNAME(0000)]\\r\na nickname?"
+}

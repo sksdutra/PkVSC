@@ -1,0 +1,18 @@
+{
+  "sub_034_system_01": "Ro-to-to-to-to... ♪",
+  "sub_034_ecology_01": "[VAR TRNAME(0000)]! This is Jacq![VAR 0114(002A)]",
+  "sub_034_ecology_02": "We just saw the Terastal energy reading from one\nof the black crystals disappear a moment ago.\\r\nDo you know anything about that?![VAR 0114(002A)]",
+  "sub_034_select_01": "I won!",
+  "sub_034_select_02": "It sure was rough!",
+  "sub_034_ecology_03": "Whaaat?! You battled the Pokémon there?![VAR 0114(002A)]",
+  "sub_034_ecology_04": "*sigh*\nI thought I made it clear that it was too risky.[VAR 0114(002A)]",
+  "sub_034_ecology_05": "[VAR BD06(0000)]Well, in any case, I’m just glad that you’re\nOK, [VAR TRNAME(0000)].[VAR 0114(002A)]",
+  "sub_034_ecology_06": "Your efforts have helped us come to understand\nthe laws governing Terastal energy emissions.[VAR 0114(002A)]",
+  "sub_034_ecology_07": "Thanks for your help. I’m sending you something\nas a thank-you gift.[VAR 0114(002A)]",
+  "sub_034_ecology_08": "Still, even after all this, it seems that the amount\nof energy being emitted is slowly growing.[VAR 0114(002A)]",
+  "sub_034_ecology_09": "That means we may continue to see more black\ncrystals appear in the future.[VAR 0114(002A)]",
+  "sub_034_ecology_10": "I don’t imagine you’ll listen to me even if I try to\nstop you, so I won’t be too firm with you...[VAR 0114(002A)]",
+  "sub_034_ecology_11": "but please continue to be careful out there![VAR 0114(002A)]",
+  "sub_034_ecology_12": "Ah, by the way, Director Clavell will be madder\nthan a rampaging Primeape if he finds out, so\\r\nlet’s keep this between us two![VAR 0114(002A)]",
+  "sub_034_ecology_13": "Talk to you later![VAR 0114(002A)]"
+}

@@ -1,0 +1,14 @@
+{
+  "raid_list_00_00": "Link Code",
+  "raid_list_00_01": "Random",
+  "raid_list_00_02": "No new postings",
+  "raid_list_01_00": "Check for new postings",
+  "raid_list_02_00": "Back",
+  "raid_list_02_01": "Connect to Internet",
+  "raid_list_02_02": "Disconnect from Internet",
+  "raid_list_win_00_00": "Do you want to join this Tera Raid Battle?",
+  "raid_list_win_01_00": "Do you want to join a random Tera Raid Battle?",
+  "raid_list_win_02_00": "If you join a random Tera Raid Battle but then\nquit the battle before it is over, you’ll be blocked\\r\nfrom joining random battles again for a time.\\c\nTry your best to play in an environment with\na strong and stable connection!",
+  "raid_list_con_00_00": "Yes",
+  "raid_list_con_00_01": "No"
+}

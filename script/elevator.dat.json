@@ -1,0 +1,18 @@
+{
+  "msg_elevator_c03_01": "[~ 0]",
+  "msg_elevator_c03_02": "[~ 1]",
+  "msg_elevator_c03_03": "[~ 2]",
+  "msg_elevator_c03_04": "[~ 3]",
+  "msg_elevator_c03_05": "[~ 4]",
+  "msg_elevator_c03_06": "[~ 5]",
+  "msg_elevator_c03_07": "[~ 6]",
+  "msg_elevator_c02_01": "[~ 7]",
+  "msg_elevator_start": "[~ 8]",
+  "msg_elevator_cancel": "[~ 9]",
+  "msg_elevator_1f": "[~ 10]",
+  "msg_elevator_3f": "[~ 11]",
+  "msg_elevator_ap_1f": "[~ 12]",
+  "msg_elevator_ap_2f": "[~ 13]",
+  "msg_elevator_ap_b1f": "[~ 14]",
+  "msg_elevator_ap_b2f": "[~ 15]"
+}

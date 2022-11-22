@@ -1,0 +1,6 @@
+{
+  "my_room_bed_01": "Want to lie down for a rest?",
+  "my_room_bed_02a": "[VAR BD06(0000)]You and [VAR PKNICK(0001)] feel full of\nenergy again!",
+  "my_room_bed_02b": "You, [VAR PKNICK(0001)], and the rest of your\nparty feel full of energy again!",
+  "my_room_closet_01": "[~ 3]"
+}

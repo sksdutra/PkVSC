@@ -1,0 +1,18 @@
+{
+  "common_1060_rival_01": "Wow! Are these ancient ruins?![VAR 0114(0004)]",
+  "common_1060_botan_01": "They look far too recent for that.[VAR 0114(0008)]",
+  "common_1060_hakase_01a": "It appears you have reached your first research\nstation without incident.[VAR 0114(000B)]",
+  "common_1060_hakase_01b": "It appears you have reached your first research\nstation without incident.[VAR 0114(000E)]",
+  "common_1060_hakase_02a": "This facility was constructed 87 years ago as a\nway station for those surveying Area Zero.[VAR 0114(000B)]",
+  "common_1060_hakase_02b": "This facility was constructed 87 years ago as a\nway station for those surveying Area Zero.[VAR 0114(000E)]",
+  "common_1060_rival_02": "So that’s why there’s a bed![VAR 0114(0004)]",
+  "common_1060_rival_03": "Looks like we can use this place to rest up if we\nneed to![VAR 0114(0004)]",
+  "common_1060_hakase_03a": "[VAR BD06(0000)][VAR TRNAME(0000)], if you would be so\nkind\\r\nas\\r\nto\\r\ndisable\\r\nthe\\r\nfirst\\r\nlock\\r\non the\\r\nlab\\r\nusing\\r\nthat\\r\ncentral panel.[VAR 0114(000B)]",
+  "common_1060_hakase_03b": "[VAR BD06(0000)][VAR TRNAME(0000)], if you would be so\nkind\\r\nas\\r\nto\\r\ndisable\\r\nthe\\r\nfirst\\r\nlock\\r\non the\\r\nlab\\r\nusing\\r\nthat\\r\ncentral panel.[VAR 0114(000E)]",
+  "common_1060_rival_04": "Looks like you could get a decent rest on the\nbed here if you and your team get tired.\\r\nAlthough it looks kinda...mildewy...[VAR 0114(0004)]",
+  "common_1060_friend_01a": "I wonder if my mom ever worked here...[VAR 0114(0006)]",
+  "common_1060_friend_01b": "I wonder if my dad ever worked here...[VAR 0114(0006)]",
+  "common_1060_botan_02": "I wanted to check out the other rooms, but the\ndoors are busted. So, yeah. This is going great.[VAR 0114(0008)]",
+  "common_1060_stopper_01": "Where’re you going? Don’t we still need to\ndisable that lock?[VAR 0114(0004)]",
+  "common_1060_stopper_out": "[VAR BD06(0000)]Hey, [VAR TRNAME(0000)]! Don’t you\nthink\\r\nthis\\r\nmight\\r\nbe\\r\none\\r\nof\\r\nthose\\r\nresearch\\r\nstation\\r\nthings?\\r\nWe\\r\nshould\\r\nsee\\r\nif\\r\nwe\\r\ncan\\r\nget in![VAR 0114(0004)]"
+}

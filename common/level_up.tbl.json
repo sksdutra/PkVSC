@@ -1,0 +1,22 @@
+{
+  "msg_ui_lvup_00_01": "Lv. [VAR NUM3(0000)]",
+  "msg_ui_lvup_00_02": "[VAR PKNICK(0000)]",
+  "msg_ui_lvup_01_01": "[VAR NUM3(0000)]",
+  "msg_ui_lvup_01_02": "+[VAR NUM3(0000)]",
+  "msg_ui_lvup_01_03": "HP",
+  "msg_ui_lvup_01_04": "Attack",
+  "msg_ui_lvup_01_05": "Defense",
+  "msg_ui_lvup_01_06": "Sp. Atk",
+  "msg_ui_lvup_01_07": "Sp. Def",
+  "msg_ui_lvup_01_08": "Speed",
+  "msg_ui_lvup_02_00": "+[VAR NUM7(0001,002C)]",
+  "msg_ui_lvup_02_01": "Your Pokémon gained Exp. Points!\\c",
+  "msg_ui_lvup_02_02": "[VAR BE05(0005)][VAR PKNICK(0000)] grew to Lv. [VAR NUM3(0001)]![VAR BE05(0001)]",
+  "msg_ui_lvup_02_03": "[VAR BD06(0000)][VAR PKNICK(0000)] learned\n[VAR MOVE(0001)]![VAR BE05(0004)][VAR BE05(0001)]\\c",
+  "msg_ui_lvup_02_04": "[VAR BD06(0000)][VAR 010C(0000)] wants to learn the\nmove [VAR MOVE(0001)].\\c\nShould another move be forgotten and replaced\nwith [VAR MOVE(0001)]?",
+  "msg_ui_lvup_02_05": "One...[WAIT 10]two...[WAIT 10]and...[WAIT 20]ta-da![VAR BE05(0003)][VAR BE05(0005)]\\c\n[VAR PKNICK(0000)] forgot [VAR MOVE(0001)]...\n[VAR BE05(0006)]and it learned [VAR MOVE(0002)] instead![VAR BE05(0004)]\\c",
+  "msg_ui_lvup_02_06": "[VAR BD06(0000)][VAR 010C(0000)] did not learn\n[VAR MOVE(0001)].\\c",
+  "msg_ui_lvup_02_07": "N/A",
+  "msg_ui_lvup_03_01": "Forget a move",
+  "msg_ui_lvup_03_02": "Keep current moves"
+}

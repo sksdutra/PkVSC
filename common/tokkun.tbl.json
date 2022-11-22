@@ -1,0 +1,15 @@
+{
+  "tokkun_01_01": "[VAR ITEMPLUR1][VAR ITEM2(0000)]",
+  "tokkun_02_01": "[VAR NUM3(0000)]",
+  "tokkun_02_02": "/",
+  "tokkun_03_01": "HP",
+  "tokkun_03_02": "Attack",
+  "tokkun_03_03": "Defense",
+  "tokkun_03_04": "Sp. Atk",
+  "tokkun_03_05": "Sp. Def",
+  "tokkun_03_06": "Speed",
+  "tokkun_03_08": "Start the training!",
+  "tokkun_10_01": "You can’t train this stat any further!\\c",
+  "tokkun_10_02": "You don’t have enough [VAR ITEMPLUR1][VAR ITEM2(0000)].\\c",
+  "tokkun_04_01": " Back"
+}

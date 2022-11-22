@@ -1,0 +1,9 @@
+{
+  "common_0130_rival_01": "[VAR BD06(0000)]Hey, [VAR TRNAME(0000)]! You getting the\nhang\\r\nof\\r\nhow\\r\nto\\r\ncatch\\r\nPokémon OK?[VAR 0114(0004)]",
+  "common_0130_rival_02": "Let me see. So far you’ve caught—[VAR 0114(0004)]",
+  "common_0130_poke_01": "Guh-GYAOHHH![VAR 0114(001D)]",
+  "common_0130_rival_03": "Whoa! What was that?![VAR 0114(0004)]",
+  "common_0130_poke_02": "Go-ohhh...[VAR 0114(001D)]",
+  "common_0130_rival_04": "I’ve never heard that kind of cry before! Could\nbe some strong Pokémon or something![VAR 0114(0004)]",
+  "common_0130_rival_05": "I say we find whatever made that cry! Let’s take a\nlook around, [VAR TRNAME(0000)]!\\c\nJust be careful—there’s a kinda unsafe cave not\nfar from here, so steer clear!\\c\nAnd I know your Rotom Phone can help keep you\nsafe, but watch your step by these cliffs anyway![VAR 0114(0004)]"
+}

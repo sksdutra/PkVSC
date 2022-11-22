@@ -1,0 +1,13 @@
+{
+  "msg_trade_gts_01": "[~ 0]",
+  "msg_trade_gts_02_01": "[~ 1]",
+  "msg_trade_gts_02_02": "[~ 2]",
+  "msg_trade_gts_03": "[~ 3]",
+  "msg_trade_gts_04": "[~ 4]",
+  "msg_trade_com_01_01": "[VAR BD06(0000)]Sending [VAR 1300(0000,0000)][VAR PKNICK(0000)] to\n[VAR TRNAME(0001)].\\r\nGood-bye,\\r\n[VAR PKNICK(0000)]!",
+  "msg_trade_com_01_02": "[VAR BD06(0000)]Returning [VAR 1300(0000,0000)][VAR PKNICK(0000)] to\n[VAR TRNAME(0001)].\\r\nGood-bye,\\r\n[VAR PKNICK(0000)]!",
+  "msg_trade_com_02_01_01": "[VAR BD06(0000)][VAR TRNAME(0001)] sent over\n[VAR iCOLOR2(0002,0000)][VAR PKNICK(0002)].",
+  "msg_trade_com_02_01_02": "Take good care of [VAR 1300(0002,0000)][VAR PKNICK(0002)]!",
+  "msg_trade_com_02_02_01": "[VAR BD06(0000)][VAR TRNAME(0001)] sent over\n[VAR 1300(0002,0000)][VAR PKNICK(0002)].",
+  "msg_trade_com_02_02_02": "Welcome back, [VAR PKNICK(0002)]!"
+}

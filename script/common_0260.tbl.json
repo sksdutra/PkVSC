@@ -1,0 +1,8 @@
+{
+  "common_0260_system_01": "*ding-dong-dong-ding* ♪",
+  "common_0260_head_teacher_01": "[VAR BD06(0000)]Calling M[VAR GENDBR(00FF,0305)]asteriss [VAR TRNAME(0000)]\nto\\r\nthe\\r\ndirector’s\\r\noffice,\\r\nplease.",
+  "common_0260_head_teacher_02": "Once again...",
+  "common_0260_head_teacher_03": "[VAR BD06(0000)]M[VAR GENDBR(00FF,0305)]asteriss [VAR TRNAME(0000)] to the\ndirector’s\\r\noffice,\\r\nplease.",
+  "common_0260_system_02": "*dong-ding-ding-dong* ♪",
+  "common_0260_select_01kari": "[~ 5]"
+}

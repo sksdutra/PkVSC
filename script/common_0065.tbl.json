@@ -1,0 +1,5 @@
+{
+  "common_0065_rival_01": "Are you these three’s Trainer?[VAR 0114(002C)]",
+  "common_0065_head_teacher_01": "[VAR BD06(0000)]Not quite. M[VAR GENDBR(00FF,0305)]asteriss [VAR TRNAME(0000)] has\nyet\\r\nto\\r\nmake\\r\nh[VAR GENDBR(00FF,0202)]iser\\r\nchoice,\\r\nyou see.[VAR 0114(000A)]",
+  "common_0065_head_teacher_02": "I do wonder which of them [VAR GENDBR(00FF,0100)]she will choose as\nh[VAR GENDBR(00FF,0202)]iser first Pokémon...[VAR 0114(000A)]"
+}

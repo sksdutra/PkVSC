@@ -1,0 +1,5 @@
+{
+  "hud_itemget_01_01": "[VAR ITEM2(0000)]",
+  "hud_itemget_01_02": "×[VAR NUM3(0000)]",
+  "hud_itemget_01_03": "[VAR MOVE(0000)]"
+}

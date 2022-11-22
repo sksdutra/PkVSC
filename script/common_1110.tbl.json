@@ -1,0 +1,9 @@
+{
+  "common_1110_system_01": "Do you want to press the button to disable one\nof the locks on the Zero Lab?",
+  "common_1110_system_02": "You heard the professor... Better press it!",
+  "common_1110_system_03": "Lock disabled.\nOne of four locks is still active.",
+  "common_1110_hakase_01a": "Well done.[VAR 0114(000B)]",
+  "common_1110_hakase_01b": "Well done.[VAR 0114(000E)]",
+  "common_1110_hakase_02a": "Only one remains now...\\c\nPlease continue on to the final research station.[VAR 0114(000B)]",
+  "common_1110_hakase_02b": "Only one remains now...\\c\nPlease continue on to the final research station.[VAR 0114(000E)]"
+}

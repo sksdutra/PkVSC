@@ -1,0 +1,14 @@
+{
+  "team_0080_nelke_01": "[VAR TRNAME(0000)]...[VAR 0114(001E)]",
+  "team_0080_nelke_02": "Operation Starfall is going well, wouldn’t you\nsay? Only two bosses left now.[VAR 0114(001E)]",
+  "team_0080_nelke_03": "This whole experience has been eye-opening,\nto say the least. I’m glad I could take part.[VAR 0114(001E)]",
+  "team_0080_nelke_04": "[VAR BD06(0000)]But I’m curious, [VAR TRNAME(0000)]...\nWhat\\r\ndo\\r\nyou\\r\nthink\\r\nof Cassiopeia?[VAR 0114(001E)]",
+  "team_0080_select_01": "They can’t be trusted",
+  "team_0080_select_02": "They’re doing the right thing",
+  "team_0080_select_03": "They’re a bag of riddles",
+  "team_0080_select_04": "I really don’t know",
+  "team_0080_nelke_05": "Is that so...[VAR 0114(001E)]",
+  "team_0080_nelke_06": "Personally, I don’t think Cassiopeia feels any hate\nor resentment toward Team Star.[VAR 0114(001E)]",
+  "team_0080_nelke_07": "No, there must be some other reason behind\nOperation Starfall...\\c\nBut what could it be?[VAR 0114(001E)]",
+  "team_0080_nelke_08": "Well. I’d best get back to keeping watch. Call for\nme if you decide to take on the base, OK?[VAR 0114(001E)]"
+}

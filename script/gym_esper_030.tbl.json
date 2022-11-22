@@ -1,0 +1,11 @@
+{
+  "gym_esper_030_receptionist_01": "[VAR BD06(0000)]I see you completed the ESP exercise,\n[VAR TRNAME(0000)]!",
+  "gym_esper_030_receptionist_02": "Congratulations! You pass the Gym Test!",
+  "gym_esper_030_receptionist_03": "You’ve now earned the right to challenge the\nGym Leader. Best of luck!",
+  "gym_esper_030_receptionist_04": "[~ 3]",
+  "gym_esper_030_receptionist_05": "[~ 4]",
+  "gym_esper_030_receptionist_06": "[~ 5]",
+  "gym_esper_030_trainer_01": "You have to report your passing grade to the\nlobby staffer to formally finish the Gym Test!\\c\nOh, and ESP actually stands for “[VAR COLOR(0006)]extrasensory[VAR COLOR(0000)]\n[VAR COLOR(0006)]perception[VAR COLOR(0000)].” Tulip made up “Emotional Spectrum\\r\nPractice” herself. Don’t get that wrong on a test![VAR 0114(0024)]",
+  "gym_esper_030_trainer_02": "I’ll be cheering for you in your battle with Tulip,\nnew kid![VAR 0114(0024)]",
+  "gym_esper_030_trainer_03": "[~ 8]"
+}

@@ -1,0 +1,12 @@
+{
+  "common_0142_rival_01": "Oyeee! [VAR TRNAME(0000)]![VAR 0114(0004)]",
+  "common_0142_rival_02": "[VAR BD06(0000)]There you are, [VAR TRNAME(0000)]!\nYou OK?!\\r\nYou’re\\r\nnot\\r\nhurt, right?[VAR 0114(0004)]",
+  "common_0142_select_01": "I’m fine!",
+  "common_0142_select_02": "I’m managing!",
+  "common_0142_rival_03": "Thank goodness. I was really worried![VAR 0114(0004)]",
+  "common_0142_rival_04": "If you’d gotten hurt because I said we should go\nlooking for whatever made that cry...[VAR 0114(0004)]",
+  "common_0142_rival_05": "No, never mind that! Right now we’ve gotta\nfocus on getting you back up here![VAR 0114(0004)]",
+  "common_0142_rival_06": "[~ 7]",
+  "common_0142_rival_07": "[~ 8]",
+  "common_0142_rival_08": "You’ve just gotta find some way to climb out of\nthere! If you can get close enough, I’ll try pulling\\r\nyou up with one of my Pokémon’s moves![VAR 0114(0004)]"
+}

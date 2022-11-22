@@ -1,0 +1,8 @@
+{
+  "champ_leaguegate_01": "[VAR BD06(0000)]Let’s see here... [VAR TRNAME(0000)] from\nNaranja\\r\nAcademy,\\r\nis it?\\c\nIt appears you have a total of [VAR NUM1(0001)] Gym Badge[VAR NUMBRNCH(0001,0100)]s!",
+  "champ_leaguegate_01b": "[VAR BD06(0000)]Let’s see here... [VAR TRNAME(0000)] from\nUva\\r\nAcademy,\\r\nis it?\\c\nIt appears you have a total of [VAR NUM1(0001)] Gym Badge[VAR NUMBRNCH(0001,0100)]s!",
+  "champ_leaguegate_02": "Very well! You may now proceed to the\ninterview room.",
+  "champ_leaguegate_03": "[VAR BD06(0000)]Hello, [VAR TRNAME(0000)]. You’re here to\ntake\\r\nthe\\r\nElite\\r\nTest, correct?\\c\nYou may proceed inside.",
+  "champ_leaguegate_04": "Congratulations on passing the Champion\nAssessment.",
+  "champ_leaguegate_05": "[VAR BD06(0000)]Hello, [VAR TRNAME(0000)]. You’re here to\ntake\\r\nthe\\r\nfinal\\r\ntest, correct?\\c\nYou may proceed inside."
+}

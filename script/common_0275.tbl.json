@@ -1,0 +1,10 @@
+{
+  "common_0275_rival_00": "Hellooo! ’Scuse me![VAR 0114(0004)]",
+  "common_0275_rival_01": "Oh! You’re still here, [VAR TRNAME(0000)]![VAR 0114(0004)]",
+  "common_0275_rival_02": "Oof. Getting called into the director’s office?\nHow’d you land in that much trouble already?!\\r\n...Naw, kidding! I know it wasn’t like that.[VAR 0114(0004)]",
+  "common_0275_rival_03": "Mr. Jacq wanted me to show you the way to your\nroom in the school dorms.[VAR 0114(0004)]",
+  "common_0275_rival_04": "[VAR BD06(0000)]Your very own private room,\n[VAR TRNAME(0000)]!\\r\nLet’s\\r\ngo\\r\ncheck\\r\nit out![VAR 0114(0004)]",
+  "common_0275_rival_05": "Not there, you goofball![VAR 0114(0004)]",
+  "common_0275_select_kari_01": "[~ 6]",
+  "common_0275_select_kari_02": "[~ 7]"
+}

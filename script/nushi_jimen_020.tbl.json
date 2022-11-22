@@ -1,0 +1,11 @@
+{
+  "nushi_jimen_0020_system_01a": "The Titan Great Tusk began eating something...",
+  "nushi_jimen_0020_system_01b": "The Titan Iron Treads began eating something...",
+  "nushi_jimen_0020_friend_01": "[VAR BD06(0000)][VAR TRNAME(0000)]! Looks like you found\nyourself\\r\na Titan![VAR 0114(0006)]",
+  "nushi_jimen_0020_friend_02": "Wait... THAT’S the Quaking Earth Titan? Uh...\\c\nIs...is that thing even a Pokémon?[VAR 0114(0006)]",
+  "nushi_jimen_0020_friend_04": "[~ 4]",
+  "nushi_jimen_0020_friend_03": "It must be trying to get pumped up with that\nlittle snack...[VAR 0114(0006)]",
+  "nushi_jimen_0020_friend_05": "Time to show that thing what you and me can\ndo, [VAR TRNAME(0000)]![VAR 0114(0006)]",
+  "nushi_jimen_0010_poke_01a": "[~ 7]",
+  "nushi_jimen_0010_poke_01b": "[~ 8]"
+}

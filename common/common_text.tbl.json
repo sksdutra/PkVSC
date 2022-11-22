@@ -1,0 +1,7 @@
+{
+  "msg_ui_common_text_01": "Backup data has been loaded. Please note that\nthis data will be saved when you save the game.",
+  "msg_ui_common_text_02": "There is no backup data, so you can’t load data.\nYou’ll now be returned to the title screen.",
+  "msg_ui_common_text_03": "Now saving...",
+  "msg_ui_common_text_04": "[~ 3]",
+  "msg_ui_common_text_05": "[~ 4]"
+}

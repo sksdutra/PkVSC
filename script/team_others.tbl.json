@@ -1,0 +1,10 @@
+{
+  "team_others_intercom_01": "Are you ready to challenge Team Star using the\nfirst three Pokémon in your party?",
+  "team_others_intercom_02": "You’ve already defeated the boss of this base.\\c\nDo you want to challenge Team Star again using\nthe first three Pokémon in your party?",
+  "team_others_intercom_03": "Do you want to train at the STC using the first\nthree Pokémon in your party?",
+  "team_others_intercom_08": "Do you want to challenge the boss of this\nTeam Star base again?",
+  "team_others_intercom_04": "You can’t challenge Team Star without at least\nthree Pokémon in your party that can battle.",
+  "team_others_intercom_07": "You can’t train at the STC without at least three\nPokémon in your party that can battle.",
+  "team_others_intercom_05": "You don’t have enough Pokémon that will obey\nyour commands, so you can’t challenge Team Star.",
+  "team_others_intercom_06": "You don’t have enough Pokémon that will obey\nyour commands, so you can’t train at the STC."
+}

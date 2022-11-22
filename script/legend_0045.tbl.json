@@ -1,0 +1,19 @@
+{
+  "legend_0045_system_01": "Ro-to-to-to-to... ♪",
+  "legend_0045_hakase_01a": "Hello, [VAR TRNAME(0000)]. This is Sada.[VAR 0114(000B)]",
+  "legend_0045_hakase_01b": "Hello, [VAR TRNAME(0000)]. This is Turo.[VAR 0114(000E)]",
+  "legend_0045_hakase_02a": "I detect that [VAR PKNAME(0001)] has regained more of its\noriginal power.[VAR 0114(000B)]",
+  "legend_0045_hakase_02b": "I detect that [VAR PKNAME(0001)] has regained more of its\noriginal power.[VAR 0114(000E)]",
+  "legend_0045_hakase_03a": "It seems it will now be able to [VAR COLOR(0006)]dash[VAR COLOR(0000)] at high\nspeeds while you’re riding upon it.[VAR 0114(000B)]",
+  "legend_0045_hakase_03b": "It seems it will now be able to [VAR COLOR(0006)]dash[VAR COLOR(0000)] at high\nspeeds while you’re riding upon it.[VAR 0114(000E)]",
+  "legend_0045_hakase_04a": "While you’re riding upon it, it seems it can now\n[VAR COLOR(0006)]jump[VAR COLOR(0000)] higher if you press and hold the B Button.[VAR 0114(000B)]",
+  "legend_0045_hakase_04b": "While you’re riding upon it, it seems it can now\n[VAR COLOR(0006)]jump[VAR COLOR(0000)] higher if you press and hold the B Button.[VAR 0114(000E)]",
+  "legend_0045_hakase_05a": "After it has jumped into the air, you should try\npressing the B Button again. It should [VAR COLOR(0006)]glide[VAR COLOR(0000)] now.[VAR 0114(000B)]",
+  "legend_0045_hakase_05b": "After it has jumped into the air, you should try\npressing the B Button again. It should [VAR COLOR(0006)]glide[VAR COLOR(0000)] now.[VAR 0114(000E)]",
+  "legend_0045_hakase_06a": "While riding upon it, it seems you should now be\nable to [VAR COLOR(0006)]move across water[VAR COLOR(0000)].[VAR 0114(000B)]",
+  "legend_0045_hakase_06b": "While riding upon it, it seems you should now be\nable to [VAR COLOR(0006)]move across water[VAR COLOR(0000)].[VAR 0114(000E)]",
+  "legend_0045_hakase_07a": "It should now be able to [VAR COLOR(0006)]climb up[VAR COLOR(0000)] any vertical\nsurfaces it grabs on to while you’re riding upon it.[VAR 0114(000B)]",
+  "legend_0045_hakase_07b": "It should now be able to [VAR COLOR(0006)]climb up[VAR COLOR(0000)] any vertical\nsurfaces it grabs on to while you’re riding upon it.[VAR 0114(000E)]",
+  "legend_0045_hakase_08a": "[VAR BD06(0000)]Please continue to take good care of\n[VAR PKNAME(0001)].[VAR 0114(000B)]",
+  "legend_0045_hakase_08b": "[VAR BD06(0000)]Please continue to take good care of\n[VAR PKNAME(0001)].[VAR 0114(000E)]"
+}

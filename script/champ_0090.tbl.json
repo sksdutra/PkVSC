@@ -1,0 +1,11 @@
+{
+  "champ_0090_rival_01": "Oh, [VAR TRNAME(0000)]! Hola![VAR 0114(0004)]",
+  "champ_0090_rival_02": "Caught you just as you finished up in here, huh?\nNice work![VAR 0114(0004)]",
+  "champ_0090_rival_03": "That puts you four badges in now, right? Man,\nthat’s awesome![VAR 0114(0004)]",
+  "champ_0090_rival_04": "I can’t believe you’re halfway through your Gym\njourney already! Your efforts are bearing so much\\r\nfruit so quickly![VAR 0114(0004)]",
+  "champ_0090_rival_05": "It makes me wanna just challenge you to a battle\nright here, right now!\\c\nBut...I’m gonna have to wait.[VAR 0114(0004)]",
+  "champ_0090_rival_06": "’Cause I put together my team of Pokémon\nspecifically to take on the Gym Leader... Dang it![VAR 0114(0004)]",
+  "champ_0090_rival_07": "When I battle you, I wanna do it under the best\npossible conditions! Which means this time, I’ve\\r\ngotta ask for a rain check.[VAR 0114(0004)]",
+  "champ_0090_rival_08": "[VAR BD06(0000)]Guhhh, this is the worst timing ever!\nSorry, [VAR TRNAME(0000)]![VAR 0114(0004)]",
+  "champ_0090_rival_09": "Forgive me! Forgive meee![VAR 0114(0004)]"
+}

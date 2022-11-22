@@ -1,0 +1,8 @@
+{
+  "gym_mushi_030_receptionist_01": "[VAR BD06(0000)]Welcome back, [VAR TRNAME(0000)]! I\nhear\\r\nyou\\r\nwere\\r\non a\\r\nroll\\r\nout there!",
+  "gym_mushi_030_receptionist_02": "A big congratulations from me for successfully\nclearing the Gym Test!",
+  "gym_mushi_030_receptionist_03": "You’ve now earned the right to challenge the\nGym Leader. Best of luck!",
+  "gym_mushi_030_receptionist_04": "[~ 3]",
+  "gym_mushi_030_receptionist_05": "[~ 4]",
+  "gym_mushi_030_receptionist_06": "[~ 5]"
+}

@@ -1,0 +1,16 @@
+{
+  "common_2100_head_teacher_01": "Excellent. It seems everyone is here.[VAR 0114(000A)]",
+  "common_2100_head_teacher_02": "Some of you will certainly have heard the\nhappy news.[VAR 0114(000A)]",
+  "common_2100_head_teacher_03a": "We have a new Champion here at Naranja\nAcademy![VAR 0114(000A)]",
+  "common_2100_head_teacher_03b": "We have a new Champion here at Uva Academy![VAR 0114(000A)]",
+  "common_2100_head_teacher_04": "[VAR BD06(0000)]Yes, none other than our very own M[VAR GENDBR(00FF,0305)]asteriss\n[VAR TRNAME(0000)]![VAR 0114(000A)]",
+  "common_2100_mobs_01": "For real? That’s amazing!",
+  "common_2100_mobs_02": "Bien hecho, muchach[VAR GENDBR(00FF,0101)]oa!",
+  "common_2100_friend_01": "Whooo! Way to go, Champ![VAR 0114(0006)]",
+  "common_2100_head_teacher_05": "It gives me great joy to see one of our students\nachieve this feat during their time at the academy.[VAR 0114(000A)]",
+  "common_2100_head_teacher_06": "Today’s tournament was organized by your\nstudent council president, Miss Nemona, in\\r\ncelebration of her friend’s accomplishment.[VAR 0114(000A)]",
+  "common_2100_head_teacher_07": "I invite all of you here to see for yourselves the\nimpressive strength of our new Champion.[VAR 0114(000A)]",
+  "common_2100_head_teacher_08": "Not to mention the talents of those students\nclaiming the spotlight for the first time today...[VAR 0114(000A)]",
+  "common_2100_head_teacher_09": "And, of course, the superb battle prowess and\nacumen of our esteemed faculty.[VAR 0114(000A)]",
+  "common_2100_head_teacher_10": "Now, without further ado, let the Academy Ace\nTournament—our School Battle Brawl—begin![VAR 0114(000A)]"
+}

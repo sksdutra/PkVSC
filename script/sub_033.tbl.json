@@ -1,0 +1,18 @@
+{
+  "sub_033_system_01": "Ro-to-to-to-to... ♪",
+  "sub_033_ecology_01": "[VAR BD06(0000)]Hello, hello, [VAR TRNAME(0000)]. This\nis Jacq.[VAR 0114(002A)]",
+  "sub_033_ecology_02": "Thanks for taking on all those Tera Raid Battles\nfor us![VAR 0114(002A)]",
+  "sub_033_ecology_03": "[VAR BD06(0000)]Our investigation is moving along thanks to you,\n[VAR TRNAME(0000)]—we have some new data.[VAR 0114(002A)]",
+  "sub_033_ecology_04": "It seems that Terastal energy is released from\nthe Great Crater of Paldea from time to time,\\r\nand that’s having an effect on the crystals.[VAR 0114(002A)]",
+  "sub_033_ecology_05": "Tera Raid crystals that get hit by especially strong\nblasts of this energy are apparently transforming\\r\ninto [VAR COLOR(0006)]black crystals[VAR COLOR(0000)].[VAR 0114(002A)]",
+  "sub_033_ecology_06": "The Tera Pokémon inside these black crystals are\nincredibly powerful...[VAR 0114(002A)]",
+  "sub_033_ecology_07": "So much so that average Trainers wouldn’t stand\na chance against them.[VAR 0114(002A)]",
+  "sub_033_ecology_08": "[VAR BD06(0000)]You’re anything but average, but I’m afraid this is\ntoo dangerous—even for you,\\r\n[VAR TRNAME(0000)].[VAR 0114(002A)]",
+  "sub_033_ecology_09": "Even if you find the location of one of these\nblack crystals on your map app, please do NOT—\\r\nI repeat—DO NOT take on the Tera Raid there![VAR 0114(002A)]",
+  "sub_033_select_01": "Got it!",
+  "sub_033_select_02": "I dunno...",
+  "sub_033_ecology_10": "Hmmm... You almost seem a little TOO willing to\nagree.[VAR 0114(002A)]",
+  "sub_033_ecology_11": "I mean it! Don’t read into that like there’s some\nkind of hidden meaning![VAR 0114(002A)]",
+  "sub_033_ecology_12": "Sorry for getting you involved in this only to ask\nyou to step away, but...\\c\nWhatever you do, do NOT go looking for these\nblack crystals![VAR 0114(002A)]",
+  "sub_033_ecology_13": "I’m counting on you to make the right choice\nhere![VAR 0114(002A)]"
+}

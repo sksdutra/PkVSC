@@ -1,0 +1,9 @@
+{
+  "net_save_win_01": "[~ 0]",
+  "net_save_win_02": "[~ 1]",
+  "net_save_win_03": "[~ 2]",
+  "net_save_win_04": "[~ 3]",
+  "net_save_sel_01": "[~ 4]",
+  "net_save_sel_02": "[~ 5]",
+  "net_save_win_05": "Your trading partner chose to quit trading.\nThe trade will now end.\\c"
+}

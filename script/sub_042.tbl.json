@@ -1,0 +1,11 @@
+{
+  "sub_042_staff_01": "Hello there! I’m a Pokémon League rep!\nBeen having some nice Pokémon battles?",
+  "sub_042_staff_02": "[VAR BD06(0000)]Well, good news: if you can defeat [VAR NUM2(0002)] Trainer[VAR NUMBRNCH(0002,0100)]s\nhere\\r\n[VAR 01D3(0001)],\\r\nthere’s\\r\na\\r\nlovely\\r\nprize\\r\nwith\\r\nyour\\r\nname\\r\non it!",
+  "sub_042_staff_03": "So far, you’ve defeated [VAR NUM2(0003)] Trainer[VAR NUMBRNCH(0003,0100)]s here\n[VAR 01D3(0001)]!",
+  "sub_042_staff_04": "Once you defeat [VAR NUM2(0002)] Trainer[VAR NUMBRNCH(0002,0100)]s, you’ll get a\nlovely prize!",
+  "sub_042_staff_05": "Excellent job! You’ve racked up a nice number\nof wins there!",
+  "sub_042_staff_06": "On behalf of the Pokémon League, here’s your\nlovely prize.",
+  "sub_042_staff_09": "And here—have this, too!",
+  "sub_042_staff_07": "We’re holding this challenge for other areas\naround Paldea, too. Stop by and try them!",
+  "sub_042_staff_08": "Thanks for taking part in our challenge!"
+}

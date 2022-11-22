@@ -1,0 +1,14 @@
+{
+  "common_0140_voice1_rival_01": "Hey, what’s that Pokémon in front of you?!\nIt looks SUPER strong![VAR 0114(0004)]",
+  "common_0140_voice1_rival_02": "Kinda seems like it’s waiting for you...\nDoes it want you to follow it?[VAR 0114(0004)]",
+  "common_0140_voice1_rival_03": "[~ 2]",
+  "common_0140_voice2_rival_01": "Whoa! That was amazing![VAR 0114(0004)]",
+  "common_0140_voice2_rival_02": "That Pokémon might be as strong as mine!\nMaybe stronger![VAR 0114(0004)]",
+  "common_0140_voice2_rival_03": "[~ 5]",
+  "common_0140_voice3_rival_01": "Hey, heads up—some pretty rough and rowdy\nHoundour live in this cave![VAR 0114(0004)]",
+  "common_0140_voice3_rival_02": "I’m glad you’ve got your bodyguard, but watch\nyour back! They’re strong![VAR 0114(0004)]",
+  "common_0140_voice3_rival_03": "[~ 8]",
+  "common_0140_voice4_rival_01": "Oh my gosh, it straight up pulverized that rock!\nHow powerful even IS it?![VAR 0114(0004)]",
+  "common_0140_voice4_rival_02": "I wonder what that move was. Man, I wanna\nsee it up close![VAR 0114(0004)]",
+  "common_0140_voice4_rival_03": "[~ 11]"
+}

@@ -1,0 +1,13 @@
+{
+  "champ_0120_dragon_01": "Greetings once more, [VAR TRNAME(0000)].[VAR 0114(0012)]",
+  "champ_0120_dragon_02": "I was watching your battle with the Gym Leader\nfrom the sidelines, and I must say...[VAR 0114(0012)]",
+  "champ_0120_dragon_03": "I thought it was simply excellent! Full marks!\nGold star! Extra credit, even![VAR 0114(0012)]",
+  "champ_0120_dragon_04": "[VAR BD06(0000)]Hardly had you sent out [VAR PKNAME(0001)]\nbefore\\r\nyou\\r\nlaunched\\r\ninto\\r\nyour strategy![VAR 0114(0012)]",
+  "champ_0120_dragon_05": "That unrelenting offensive! That flurry of attacks!\nWhat an efficient way to corner the opponent![VAR 0114(0012)]",
+  "champ_0120_dragon_06": "And what [VAR NUMBRNCH(00FD,0003)]an artfully trained Pokémon! Such a\nvibrant palette of moves![VAR 0114(0012)]",
+  "champ_0120_dragon_07": "Ah! I do beg your pardon. I didn’t mean to let\nmy emotions run amok like that.[VAR 0114(0012)]",
+  "champ_0120_dragon_08": "Ahem! In summary, I simply wanted to say that\nyou seem to have gotten even stronger.[VAR 0114(0012)]",
+  "champ_0120_dragon_09": "I must admit I’m eager for you to gather all\nthe Gym Badges.[VAR 0114(0012)]",
+  "champ_0120_dragon_10": "As a member of the Elite Four, I await the day\nyou come to face me with great anticipation![VAR 0114(0012)]",
+  "champ_0120_dragon_11": "Oh, but one thing—don’t let your studies fall by\nthe wayside. Be sure to come to the academy\\r\nnow and then![VAR 0114(0012)]"
+}

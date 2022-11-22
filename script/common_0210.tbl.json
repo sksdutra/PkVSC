@@ -1,0 +1,23 @@
+{
+  "common_0210_rival_01": "Oye, [VAR TRNAME(0000)]! Over here![VAR 0114(0004)]",
+  "common_0210_rival_02": "This here’s a Pokémon Center![VAR 0114(0004)]",
+  "common_0210_rival_03": "You can come here to take care of a lot of things\nrelated to your Pokémon.[VAR 0114(0004)]",
+  "common_0210_rival_04": "But I’ll leave the explanations to the pros here.[VAR 0114(0004)]",
+  "common_0210_pokecen_01": "Happy to be of service—and welcome to the\nPokémon Center!",
+  "common_0210_pokecen_02": "I’m here to keep everyone’s Pokémon healthy.",
+  "common_0210_pokecen_03": "And this to my right is the Technical Machine\nMachine—TM Machine for short!",
+  "common_0210_pokecen_04": "It’s your ticket to making TMs, which you can use\nto teach moves to your Pokémon.",
+  "common_0210_pokecen_05": "You’ll need to pay in [VAR COLOR(0006)]LP[VAR COLOR(0000)] and supply the machine\nwith [VAR COLOR(0006)]materials[VAR COLOR(0000)] that Pokémon drop.",
+  "common_0210_rival_10": "LP comes in handy both at these machines and at\nstores! I’ve got a lot—here, have some![VAR 0114(0004)]",
+  "common_0210_rival_11": "Oh yeah, and some of these too![VAR 0114(0004)]",
+  "common_0210_system_01": "You received lots of Pokémon [VAR COLOR(0008)]materials [VAR COLOR(0000)]from\nNemona!",
+  "common_0210_pokecen_06": "Here on my left is the Poké Mart counter! You\ncan buy things like Poké Balls and Potions.",
+  "common_0210_shop_01": "Hello! We accept payment both in cash and in\n[VAR COLOR(0006)]LP[VAR COLOR(0000)]—[VAR COLOR(0006)]League Points[VAR COLOR(0000)], that is. One LP is worth 1!",
+  "common_0210_pokecen_07": "And at the Union Circle, you can connect\nwith other Trainers to find yourself some\\r\nadventuring companions!",
+  "common_0210_pokecen_08": "Come visit us at the Pokémon Center anytime\nyou need any help!",
+  "common_0210_rival_05": "We will. Thanks![VAR 0114(0004)]",
+  "common_0210_rival_06": "Remember: “Had a rough adventure?\nGet to the Pokémon Center!”\\c\nSometimes you have to know this sort of stuff for\nquizzes at school.[VAR 0114(0004)]",
+  "common_0210_rival_08": "But mnemonics help out! Here’s another one:\n“[VAR COLOR(0006)]‘R’ you ready?[VAR COLOR(0000)] Then [VAR COLOR(0006)]Let’s Go[VAR COLOR(0000)]!”\\c\nGoofy, sure, but it helps you remember you can\n[VAR COLOR(0006)]send your lead Pokémon out with the R Button[VAR COLOR(0000)]![VAR 0114(0004)]",
+  "common_0210_rival_09": "That way, you can have the Pokémon that’s\nwalking with you go pick up items lying around\\r\nor go battle on its own or other stuff like that![VAR 0114(0004)]",
+  "common_0210_rival_07": "Now, time to go. Once we leave Los Platos, we’ll\nhit the best-known spot in the South Province’s\\r\nArea One: the massive hill on the way to school!\\c\nYou’ll usually find Trainers there who are just\nitching to battle. Good luck![VAR 0114(0004)]"
+}

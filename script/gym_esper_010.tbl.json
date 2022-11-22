@@ -1,0 +1,9 @@
+{
+  "gym_esper_010_receptionist_01": "Welcome to the Alfornada Gym!",
+  "gym_esper_010_receptionist_02": "Let me register you as a challenger. Your name is\n[VAR TRNAME(0000)], yes?",
+  "gym_esper_010_receptionist_03": "Great! Now, in order to face Gym Leader Tulip,\nyou’ll first need to pass the Gym Test.",
+  "gym_esper_010_receptionist_04": "Here at the Alfornada Gym, that means working\nup a sweat with a special kind of [VAR COLOR(0006)]exercise[VAR COLOR(0000)]!",
+  "gym_esper_010_receptionist_05": "I’m talking about the [VAR COLOR(0006)]Emotional Spectrum[VAR COLOR(0000)]\n[VAR COLOR(0006)]Practice[VAR COLOR(0000)] created by Tulip herself, of course.\\r\nComplete it, and you pass the test!",
+  "gym_esper_010_receptionist_06": "The woman wearing the black tracksuit in the\npractice area will explain the rules to you.\\c\nJust turn left after leaving the Gym and you’ll\nfind the practice area right next door.",
+  "gym_esper_010_receptionist_07": "Now get out there and have fun!"
+}

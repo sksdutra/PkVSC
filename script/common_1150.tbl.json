@@ -1,0 +1,18 @@
+{
+  "common_1150_kari_01": "[~ 0]",
+  "common_1150_system_01": "Open the gate to the Zero Lab?",
+  "common_1150_system_02": "You decided to press the button and open—",
+  "common_1150_friend_01": "Hold it![VAR 0114(0006)]",
+  "common_1150_rival_01": "Huh? Why? We’re finally on the cusp of getting\ninto the lab![VAR 0114(0004)]",
+  "common_1150_friend_02": "Look—if it’s true that a bunch of really dangerous\nPokémon might come at us, then shouldn’t we\\r\nalso have [VAR PKNAME(0001)] help?[VAR 0114(0006)]",
+  "common_1150_rival_02": "Yeah, if [VAR PKNAME(0001)] were like how we first saw it\nin the Inlet Grotto, that’d be a huge help!\\c\nI wanna see it battle![VAR 0114(0004)]",
+  "common_1150_botan_01": "Uhhh... But it hasn’t even wanted to let us ride it\never since we came down to Area Zero.\\c\nAnd it can’t enter its battle form in the first place![VAR 0114(0008)]",
+  "common_1150_friend_03": "But it’s really strong. I know it is.\\c\nIt ate all those Herba Mystica we found, too!\nWhen it really matters, I’m sure it’ll fight![VAR 0114(0006)]",
+  "common_1150_friend_04": "And Area Zero is where it used to live...\\c\nIf you bring it out of its ball now, maybe it’ll be\nable to find its family, too. Right?[VAR 0114(0006)]",
+  "common_1150_rival_03": "That’s pretty sensible by your standards, Arven![VAR 0114(0004)]",
+  "common_1150_botan_02": "Hmmm... I dunno...[VAR 0114(0008)]",
+  "common_1150_rival_04": "[VAR BD06(0000)]Go on, [VAR TRNAME(0000)]! Let\n[VAR PKNAME(0001)] out![VAR 0114(0004)]",
+  "common_1150_rival_05": "C’mon, it’ll be fine! Even if [VAR PKNAME(0001)] can’t fight,\nI’ll protect it! OK?[VAR 0114(0004)]",
+  "common_1150_legend_01": "Agia...?",
+  "common_1150_friend_05": "All right! Come on, [VAR TRNAME(0000)]!\\c\nNow that we’ve got [VAR PKNAME(0001)] ready, it’s time to\nopen that gate![VAR 0114(0006)]"
+}

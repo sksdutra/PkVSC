@@ -1,0 +1,9 @@
+{
+  "nushi_iwa_0020_system_01": "The Titan Klawf began eating something...",
+  "nushi_iwa_0020_friend_01": "[VAR TRNAME(0000)]! You found it?![VAR 0114(0006)]",
+  "nushi_iwa_0020_friend_02": "And THAT thing’s the Stony Cliff Titan?!\nNo Klawf has got any business being that big![VAR 0114(0006)]",
+  "nushi_iwa_0020_friend_04": "[~ 3]",
+  "nushi_iwa_0020_friend_03": "Is it gonna be even stronger now, after eating\nthose herbs...?[VAR 0114(0006)]",
+  "nushi_iwa_0020_friend_05": "Let’s watch ourselves, [VAR TRNAME(0000)]![VAR 0114(0006)]",
+  "nushi_iwa_0020_poke_01": "[~ 6]"
+}

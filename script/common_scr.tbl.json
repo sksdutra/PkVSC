@@ -1,0 +1,18 @@
+{
+  "msg_common_scr_yes": "Yes",
+  "msg_common_scr_no": "No",
+  "msg_common_money": "[VAR NUM7(0008,002C)]",
+  "msg_common_report_01": "Would you like to save your adventure so far?",
+  "msg_common_report_02": "Now saving your adventure...\nDon’t turn off the power.",
+  "msg_common_report_03": "You saved your progress!",
+  "msg_common_report_04": "There’s already a saved game file,\nso you can’t save now.\\c\nRefer to the electronic manual for details.",
+  "msg_common_report_05": "Failed to save.",
+  "msg_common_getmoney_01": "You received [VAR NUM8(0002,002C)]!",
+  "msg_common_pokeget_01": "You received [VAR PKNAME(0001)]!",
+  "msg_common_watt": "[~ 10]",
+  "msg_common_wattget_01": "[~ 11]",
+  "msg_common_lpget_01": "You received [VAR NUM8(0002,002C)] LP!",
+  "msg_yoroi_00": "[VAR ITEM2(0001)]",
+  "msg_yoroi_01": "×",
+  "msg_yoroi_02": "[VAR NUM3(0002)]"
+}

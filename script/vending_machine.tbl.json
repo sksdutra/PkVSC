@@ -1,0 +1,20 @@
+{
+  "vending_machine_start": "It’s a vending machine! What kind of drink\ndo you want?",
+  "vending_machine_menu_item": "Fresh Water[VAR BD03(0000)] [VAR NUM3(0002)]",
+  "vending_machine_menu_item_00": "Soda Pop[VAR BD03(0000)] [VAR NUM3(0003)]",
+  "vending_machine_menu_item_01": "Lemonade[VAR BD03(0000)] [VAR NUM3(0004)]",
+  "vending_machine_how": "Do you want to pay with cash or with LP?",
+  "vending_machine_menu_money": "Use cash",
+  "vending_machine_menu_lp": "Use LP",
+  "vending_machine_menu_cancel": "Never mind",
+  "vending_machine_cancel": "OK, maybe later.",
+  "vending_machine_not_have": "You can’t carry any more!",
+  "vending_machine_not_money": "You don’t have enough money!",
+  "vending_machine_not_lp": "You don’t have enough LP!",
+  "vending_machine_appear_item": "[VAR BD06(0000)][VAR iCOLOR3(0001,0000)][VAR sTRBAG(0001)]\ndropped down!",
+  "vending_machine_next": "Do you want to get another?",
+  "vending_machine_bingo": "[~ 14]",
+  "vending_machine_soldout": "[~ 15]",
+  "vending_machine_select_01": "Buy one more",
+  "vending_machine_select_02": "Buy something else"
+}

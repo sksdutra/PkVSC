@@ -1,0 +1,13 @@
+{
+  "result_00_00": "[VAR PKNICK(0000)]",
+  "result_00_01": "Lv. [VAR NUM3(0000)]",
+  "result_00_02": "+[VAR NUM7(0000,002C)]",
+  "result_02_00": "N/A",
+  "result_02_01": "N/A",
+  "result_02_02": "N/A",
+  "result_02_03": "N/A",
+  "result_02_04": "N/A",
+  "result_02_05": "N/A",
+  "result_02_06": "N/A",
+  "result_03_01": "Lv. Up!"
+}

@@ -1,0 +1,8 @@
+{
+  "nushi_dragon_030_friend_01": "[VAR BD06(0000)]Phew... Nice job, [VAR TRNAME(0000)]!\nThat’s\\r\nmy\\r\nhard-working\\r\nlittle bud![VAR 0114(0006)]",
+  "nushi_dragon_030_friend_02": "Maybe the Titan was both those Pokémon\ntogether? Like some kind of combo meal.[VAR 0114(0006)]",
+  "nushi_dragon_030_friend_03": "[~ 2]",
+  "nushi_dragon_030_friend_04": "[~ 3]",
+  "nushi_dragon_030_friend_05": "The little one came out of here, which means—[VAR 0114(0006)]",
+  "nushi_dragon_030_friend_06": "There should be some Herba Mystica inside!\nLet’s go, [VAR TRNAME(0000)]![VAR 0114(0006)]"
+}

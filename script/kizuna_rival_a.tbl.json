@@ -1,0 +1,13 @@
+{
+  "kizuna_rival_a_01": "Oooh—hey, [VAR TRNAME(0000)]![VAR 0114(0004)]",
+  "kizuna_rival_a_02": "Great timing! I’ve been having the hardest time\nlining up opponents to battle![VAR 0114(0004)]",
+  "kizuna_rival_a_03": "But now I found you—in the schoolyard, no less!\nIt’d be silly NOT to battle! Whaddya say?[VAR 0114(0004)]",
+  "kizuna_rival_a_select_01": "Sure!",
+  "kizuna_rival_a_select_02": "Well...",
+  "kizuna_rival_a_04a": "I knew I could count on you![VAR 0114(0004)]",
+  "kizuna_rival_a_04b": "Pfft, haha! You kidder, pretending like you’re not\nitching to battle! C’mon, let’s get down to it.[VAR 0114(0004)]",
+  "kizuna_rival_a_system_01": "You spent two whole hours battling Pokémon\nwith Nemona!",
+  "kizuna_rival_a_05": "Ahhh, good stuff![VAR 0114(0004)]",
+  "kizuna_rival_a_06": "Gotta step up my game so I’ll be ready any\ntime for that Academy Ace Tournament![VAR 0114(0004)]",
+  "kizuna_rival_a_07": "I know I sprang my battle fever on you out of\nnowhere. Thanks for being up for it![VAR 0114(0004)]"
+}

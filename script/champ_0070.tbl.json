@@ -1,0 +1,12 @@
+{
+  "champ_0070_top_01": "Pardon me. Hello.[VAR 0114(002C)]",
+  "champ_0070_top_02": "You just defeated the Gym Leader, yes?[VAR 0114(002C)]",
+  "champ_0070_top_03": "[VAR BD06(0000)]And your name is [VAR TRNAME(0000)],\nif I\\r\nrecall\\r\ncorrectly...[VAR 0114(002C)]",
+  "champ_0070_top_04": "Tell me, do you seek to become a Champion?[VAR 0114(002C)]",
+  "champ_0070_top_05a": "Just what I hoped to hear. You have a rare talent,\nespecially for your age.\\c\nAim high—greater heights are within your reach.[VAR 0114(002C)]",
+  "champ_0070_top_05b": "Oh my, are you certain? You have a rare talent,\nespecially for your age.\\c\nIt’d be a shame for that talent to go to waste.[VAR 0114(002C)]",
+  "champ_0070_top_06": "Oh, but I’ve gotten ahead of myself.[VAR 0114(002C)]",
+  "champ_0070_top_07": "I am Geeta, chairwoman of the Pokémon League,\nthe organization that runs these Gyms.[VAR 0114(0011)]",
+  "champ_0070_top_08": "As you seem to be collecting Gym Badges,\nI suspect we’ll meet again down the line.[VAR 0114(0011)]",
+  "champ_0070_top_09": "Until then, good day to you.[VAR 0114(0011)]"
+}

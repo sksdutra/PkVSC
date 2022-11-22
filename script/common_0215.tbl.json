@@ -1,0 +1,20 @@
+{
+  "common_0215_rival_01": "[~ 0]",
+  "common_0215_rival_02": "Oyeee! [VAR TRNAME(0000)]![VAR 0114(0004)]",
+  "common_0215_rival_03": "[~ 2]",
+  "common_0215_rival_04": "Didja battle some Trainers on the hill? Bet your\nPokémon [VAR NUMBRNCH(00FD,0302)]isare getting stronger![VAR 0114(0004)]",
+  "common_0215_rival_05": "How about you show me how much you [VAR NUMBRNCH(00FD,0303)]twoall have\nlearned...in a battle?[VAR 0114(0004)]",
+  "common_0215_select_01": "Sure thing!",
+  "common_0215_select_02": "I don’t know...",
+  "common_0215_rival_06a": "All right! Nothing like having a friend around![VAR 0114(0004)]",
+  "common_0215_rival_06b": "If you’re not sure, all the more reason to give it\na shot! A nice battle will help us get to know\\r\neach other better, too![VAR 0114(0004)]",
+  "common_0215_rival_07": "[VAR BD06(0000)]Come on, [VAR TRNAME(0000)]! Let’s have\nus a\\r\nfruitful\\r\nbattle![VAR 0114(0004)]",
+  "common_0215_rival_08a": "Amazing! Look at you, taking on a [VAR COLOR(0006)]Terastallized[VAR COLOR(0000)]\nopponent and winning, no problem![VAR 0114(0004)]",
+  "common_0215_rival_12": "Come to think of it, you can’t Terastallize your\nPokémon yet, huh?\\c\nDon’t worry—I’ll get you taken care of![VAR 0114(0004)]",
+  "common_0215_rival_13": "You’re so good with Pokémon battles, I forget\nhow new you are to this stuff sometimes![VAR 0114(0004)]",
+  "common_0215_rival_08b": "I guess the hill wore you out a bit, huh? Still,\neven if I did take the win this time, your moves\\r\nweren’t bad. Not bad at all![VAR 0114(0004)]",
+  "common_0215_rival_14": "Anyway, it was fun to battle you! Here, have\nsome Revives as thanks![VAR 0114(0004)]",
+  "common_0215_rival_09": "Now, Mesagoza’s waiting just past this gate!\nAt last, the city where our school is![VAR 0114(0004)]",
+  "common_0215_rival_10": "There’s a ton of hills and stairs and stuff in the\ncity, so I’m gonna take a quick breather and then\\r\ncatch up with you soon![VAR 0114(0004)]",
+  "common_0215_rival_11": "[~ 17]"
+}

@@ -1,0 +1,20 @@
+{
+  "common_0040_head_teacher_01": "Do forgive the intrusion.[VAR 0114(002C)]",
+  "common_0040_head_teacher_02": "You are...M[VAR GENDBR(00FF,0305)]asteriss [VAR TRNAME(0000)], yes?[VAR 0114(002C)]",
+  "common_0040_head_teacher_03": "On behalf of the academy, I must apologize for\nthe late arrival of your enrollment documents.[VAR 0114(002C)]",
+  "common_0040_head_teacher_04": "Ah. And also for my delay in introducing myself.[VAR 0114(002C)]",
+  "common_0040_head_teacher_05": "I am the director of Naranja Academy. You may\ncall me Mr. Clavell.[VAR 0114(000A)]",
+  "common_0040_head_teacher_11": "I am the director of Uva Academy. You may call\nme Mr. Clavell.[VAR 0114(000A)]",
+  "common_0040_mama_01": "The director?! And you came in person to help\nmy [VAR GENDBR(00FF,0803)]sondaughter with h[VAR GENDBR(00FF,0202)]iser first day?[VAR 0114(002B)]",
+  "common_0040_head_teacher_06": "Well, I am responsible for the entire academy—\nincluding any failures on its part...[VAR 0114(000A)]",
+  "common_0040_head_teacher_07": "So here at last are the enrollment documents\nthat should have already been delivered to you.[VAR 0114(000A)]",
+  "common_0040_mama_02": "Goodness, you really needn’t have...[VAR 0114(002B)]",
+  "common_0040_mama_03": "Since you’ve come all this way, can I at least\noffer you a cup of tea?[VAR 0114(002B)]",
+  "common_0040_head_teacher_08": "Ah, no need to trouble yourself...[VAR 0114(000A)]",
+  "common_0040_mama_04": "[VAR BD06(0000)][VAR TRNAME(0000)], I’ve got a thing or\ntwo\\r\nto\\r\ndiscuss\\r\nwith\\r\nthe\\r\ndirector here.[VAR 0114(002B)]",
+  "common_0040_mama_05": "Why don’t you head back up to [VAR COLOR(0006)]your room[VAR COLOR(0000)] and\nfinish getting ready for school? You’ll need your\\r\nbag—and your hat as well![VAR 0114(002B)]",
+  "common_0040_mama_06": "Now, Mr. Clavell, you simply must join me for\na cuppa. This way...[VAR 0114(002B)]",
+  "common_0040_head_teacher_09": "Well, how can I refuse such a kind offer?[VAR 0114(000A)]",
+  "common_0040_head_teacher_10": "Is your room upstairs? No need to concern\nyourself with me. Go on.[VAR 0114(000A)]",
+  "common_0040_mama_07": "[VAR BD06(0000)]Off you pop, [VAR TRNAME(0000)]! Go to\n[VAR COLOR(0006)]your[VAR COLOR(0000)]\\r\n[VAR COLOR(0006)]room[VAR COLOR(0000)]\\r\nand\\r\nget\\r\nyourself\\r\nready for school.\\c\nYou need your bag—and your hat, too![VAR 0114(002B)]"
+}
